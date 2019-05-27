@@ -1,6 +1,6 @@
-# Hello World PhoneGap Template [![bitHound Score][bithound-img]][bithound-url]
+# Gerenciador Financeiro em Phonegap
 
-A PhoneGap Hello World template
+Gerenciador Financeiro em Phonegap
 
 ## Usage
 
